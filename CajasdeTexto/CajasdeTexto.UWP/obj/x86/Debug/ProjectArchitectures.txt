@@ -1,0 +1,2 @@
+c:\users\tecni\documents\visual studio 2015\Projects\CajasdeTexto\CajasdeTexto\CajasdeTexto.UWP\CajasdeTexto.UWP.csproj;x86
+c:\users\tecni\documents\visual studio 2015\Projects\CajasdeTexto\CajasdeTexto\CajasdeTexto\CajasdeTexto.csproj;neutral
